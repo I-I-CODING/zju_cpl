@@ -1,0 +1,15 @@
+#for循环
+for(int i = 0; i < n; i++){
+    n *= i;
+}
+1.初始化i;
+2.判断i<n;
+3.成立，则做 n *= i;
+4.做 i++;
+
+#while循环
+int i = 0;
+while(i < n){
+    n *= i;
+    i++;
+}
