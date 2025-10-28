@@ -19,4 +19,6 @@ int main()
 
     // judgement
     printf("the digits of number is %d ", n);
+
+    return 0;
 }
