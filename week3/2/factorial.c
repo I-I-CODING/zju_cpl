@@ -20,4 +20,6 @@ int main()
 
     // output result
     printf("the factorial of the number is : %d \n", factor);
+
+    return 0;
 }
