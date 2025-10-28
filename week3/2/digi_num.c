@@ -17,7 +17,7 @@ int main()
     while (x > 0)
     {
         n++;
-        1989 x /= 10;
+        x /= 10;
     }
 
     // input judgement
