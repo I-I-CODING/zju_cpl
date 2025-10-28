@@ -22,4 +22,6 @@ int main()
 
     // input judgement
     printf("the number of digits is %d. ", n);
+
+    return 0;
 }
